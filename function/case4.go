@@ -2,7 +2,7 @@ package main
 
 // 常见的内置函数
 /**
-
+内置函数
 名称	说明
 close	用于管道通信
 len、cap
